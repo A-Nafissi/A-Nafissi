@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-Nafissi
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently diving deep into NLP with Python
 - 💞️ I’m looking to collaborate on any project in this domain
 - 📫 How to reach me in my email: abdessamadnfs@gmail.com
 
