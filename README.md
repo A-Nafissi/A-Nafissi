@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @A-Nafissi
-- 👀 I’m interested in NLP
+- 👋 Hi, I’m Nafissi multilingual linguist/translator 
+- 💞️ I’m interested in anything related to Natural Language Processing
 - 🌱 I’m currently diving deep into NLP with Python
-- 💞️ I’m looking to collaborate on any project in this domain
+- 👀 I’m looking to work/collaborate on any project in this domain
 - 📫 How to reach me in my email: abdessamadnfs@gmail.com
 
 <!---
