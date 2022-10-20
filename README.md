@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nafissi. A multilingual linguist/translator 
+- 👋 Hi, I’m Nafissi. A multilingual NLP engineer 
 - 💞️ I’m interested in anything related to Natural Language Processing
 - 🌱 I’m currently diving deep into NLP with Python
 - 👀 I’m looking to work/collaborate on any project in this domain
