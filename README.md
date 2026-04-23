@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nafissi. Linguist & NLP Engineer
+- 👋 Hi, I’m Nafissi. Language engineer & NLP researcher
 - 💞️ I’m interested in anything related to Natural Language Processing
 - 🌱 I’m currently diving deep into NLP with Python
 - 👀 I’m looking to work/collaborate on any project in this domain
